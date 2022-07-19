@@ -1,8 +1,8 @@
 {
-  "label": "About",
+  "label": "Minigames",
   "position": 1,
   "link": {
     "type": "generated-index",
-    "description": "About all of the gamemodes"
+    "description": "The minigames!"
   }
 }
