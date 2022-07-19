@@ -1,0 +1,12 @@
+@font-face {
+  font-family: CaskaydiaCove;
+  src: url('../../static/fonts/CaskaydiaCove.ttf');
+}
+
+.prism-code {
+  font-family: CaskaydiaCove;
+}
+
+[dark-theme='dark'], .hero__subtitle, .hero__title {
+  color: #fff;
+}
