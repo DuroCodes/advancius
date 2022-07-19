@@ -12,6 +12,8 @@ The guide is a public repository on GitHub. You can view the repo [here](https:/
 
 All of the information on the guide is stored in the **docs** directory.
 
+Visit the [Discord server](https://discord.gg/M2Pay3zBvW) for support!
+
 ## Installation
 
 To begin contributing to the project, you must have the following installed on your computer:
