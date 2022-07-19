@@ -38,4 +38,4 @@ You can apply for a staff position [here](https://www.advancius.net/apply).
 
 ## Staff of the Month (SOTM)
 
-* This award is designed to recognize those staff members that are doing great work for the server, and is awarded on a monthly basis.
+* This award is designed to recognize those staff members that are doing great work for the server, and is awarded on a bimonthly basis. The first SOTM is selected by a vote including all staff, and the second SOTM is selected by a vote including only the head staff.
