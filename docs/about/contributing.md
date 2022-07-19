@@ -80,6 +80,27 @@ You can embed links like this:
 You can learn more about what you can do in markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 You can refer to other pages on the repository to see how they do certain things also!
 
+## Adding a Group
+
+To add a group, or folder in the guide, first create a folder in the `docs` directory.
+
+Once you've created your folder, create a file called `_category_.json`.
+
+Inside of this file, put the following content:
+
+```json title="_category_.json" showLineNumbers
+{
+  "label": "[YOUR TITLE]",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "[YOUR DESCRIPTION]"
+  }
+}
+```
+
+Now, you can add markdown files and create guides in this sub-folder!
+
 ## Starting the project
 
 To start the project on your machine, type `npm run start` in your command prompt/terminal. This will start a development server for you.
