@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/palenight');
 const config = {
   title: 'Advancius Guide',
   tagline: 'The unofficial guide for Advancius',
-  url: 'https://advancius-guide.tk',
+  url: 'https://guide.advancius.tk',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
