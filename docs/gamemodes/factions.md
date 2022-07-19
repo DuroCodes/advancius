@@ -2,7 +2,8 @@
 sidebar_position: 1
 ---
 
-#Factions
+# Factions
 
-In Creative, players are put into the traditional Minecraft creative gamemode to build to their heart's content. Using the plots plugin, you can find the perfect plot to build all of your heart's desires! You can even team up with your friends to build massive builds or you can compete with them to see who has the best building skills.
+In Factions, players build bases to guard their loot as they compete against each other to reach /f top #1. Building grinders, farms and anything else will give you the money and power needed in order to rule the land and leaderboards. 
 
+For those that dare, you can even raid and steal other player's stuff in their bases to earn a fearsome reputation!
