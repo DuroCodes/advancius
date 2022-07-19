@@ -10,7 +10,7 @@ const config = {
   tagline: 'The unofficial guide for Advancius',
   url: 'https://advancius-guide.tk',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/advancius.png',
   organizationName: 'durocodes',
