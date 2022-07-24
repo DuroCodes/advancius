@@ -119,6 +119,9 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      announcementBar: {
+        content: 'We\'re looking for contributors! Please join our <a href="https://discord.gg/M2Pay3zBvW">Discord</a> to help!',
+      },
     }),
 };
 
