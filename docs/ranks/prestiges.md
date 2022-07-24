@@ -12,6 +12,7 @@ To see a list of all prestige perks, use the `/prestige` command.
  
  
 ### 1st Prestige
+
 Rankpoint Requirement: `2,500,000`
 Total Rankpoint Requirement `2,500,000`
  
@@ -24,6 +25,7 @@ Access to the `Prestige Surival` Gamemode
 Bunny and Mushroom Morphs
  
 ### 2nd Prestige
+
 Rankpoint Requirement: `3,750,000`
 Total Rankpoint Requirement `6,250,000`
  
@@ -37,6 +39,7 @@ Plots world edit (Creative)
 Skeleton and Pigman Morphs
  
 ### 3rd Prestige
+
 Rankpoint Requirement: `5,000,000`
 Total Rankpoint Requirement `11,250,000`
  
@@ -49,6 +52,7 @@ Berserk Kit (Kitpvp)
 Access to all minion skins
  
 ### 4th Prestige
+
 Rankpoint Requirement: `6,250,000`
 Total Rankpoint Requirement `17,500,000`
  
@@ -62,6 +66,7 @@ Advanced Kit (Prestige Survival)
 12 hour death bans (Prestige survival)
  
 ### 5th Prestige
+
 Rankpoint Requirement: `7,500,000`
 Total Rankpoint Requirement `25,000,000`
  
@@ -75,6 +80,7 @@ Zombie Kit (Kitpvp)
 Villager and Iron Golem Morphs
  
 ### 6th Prestige
+
 Rankpoint Requirement: `8,750,000`
 Total Rankpoint Requirement `33,750,000`
  
@@ -88,6 +94,7 @@ Host duel events (/events)
 Block Morph
  
 ### 7th Prestige
+
 Rankpoint Requirement: `10,000,000`
 Total Rankpoint Requirement `43,750,000`
  
