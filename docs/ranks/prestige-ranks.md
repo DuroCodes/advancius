@@ -1,11 +1,11 @@
 ---
 sidebar-position: 5
 ---
- 
+
 # Prestiges
- 
+
 Prestiges are obtainable by earning rankpoints in-game by completing certain tasks, such as voting and playing games on the network, and getting enough to meet the bottom value.
- 
+
 To see all tasks that you are able to earn rankpoints through, use the `/earn` command.
 
 To see a list of all prestige perks, use the `/prestige` command.
@@ -29,7 +29,7 @@ Total Rankpoint Requirement: `2,500,000`.
 
 </div>
 </details>
- 
+
 ### 2nd Prestige
 
 Rankpoint Requirement: `3,750,000`.
@@ -50,7 +50,7 @@ Total Rankpoint Requirement: `6,250,000`.
 
 </div>
 </details>
- 
+
 ### 3rd Prestige
 
 Rankpoint Requirement: `5,000,000`.
@@ -91,7 +91,7 @@ Total Rankpoint Requirement: `17,500,000`.
 
 </div>
 </details>
- 
+
 ### 5th Prestige
 
 Rankpoint Requirement: `7,500,000`.
@@ -112,7 +112,7 @@ Total Rankpoint Requirement: `25,000,000`.
 
 </div>
 </details>
- 
+
 ### 6th Prestige
 
 Rankpoint Requirement: `8,750,000`.
